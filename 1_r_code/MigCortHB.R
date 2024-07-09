@@ -820,8 +820,8 @@ map
 
 ggsave("2_figures/Sampling_locations.pdf",
        width = 11, 
-       height = 6)
+       height = 5.25)
 
 ggsave("2_figures/Sampling_locations.tiff",
        width = 11, 
-       height = 6)
+       height = 5.25)
